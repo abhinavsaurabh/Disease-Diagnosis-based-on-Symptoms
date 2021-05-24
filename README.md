@@ -1,5 +1,5 @@
 # Disease Diagnosis based on Symptoms
-This project uses novel techniques of Machine learning and IR techniques to detect diseases based on symptoms and provide more details about the top fetched diseases including treatment recommendation.
+This project uses Machine learning and Information Retrival  techniques to detect diseases based on symptoms and provide more details about the top fetched diseases including treatment recommendation.
 
 1. TF-IDF\
 ● We have the following files for TF-idf interaction Application.\
