@@ -4,8 +4,8 @@ This project uses novel techniques of Machine learning and IR techniques to dete
 1. TF-IDF
 
 ● We have the following files for TF-idf interaction Application.\
-&nbsp  ○ combination (3).csv\
-&nbsp  ○ cosine_results.py\
+&nbsp;  ○ combination (3).csv\
+&nbsp;  ○ cosine_results.py\
 &nbsp  ○ generatesymptoms.py\
 &nbsp  ○ Interaction_TF_IDF_Cosine.ipynb\
 &nbsp ○ normal (3).csv\
