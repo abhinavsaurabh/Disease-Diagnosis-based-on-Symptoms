@@ -1,7 +1,7 @@
 # Disease Diagnosis based on Symptoms
 This project uses novel techniques of Machine learning and IR techniques to detect diseases based on symptoms and provide more details about the top fetched diseases including treatment recommendation.
 
-1. TF-IDF
+1. TF-IDF\
 ● We have the following files for TF-idf interaction Application.\
 &nbsp;&nbsp;  ○ combination (3).csv\
 &nbsp;&nbsp;  ○ cosine_results.py\
@@ -16,7 +16,7 @@ This project uses novel techniques of Machine learning and IR techniques to dete
 
 
 
-2. ML interaction
+2. ML interaction\
 ● We have the following files for ML interaction Application.\
 &nbsp;&nbsp;  ○ combinational (3).csv\
 &nbsp;&nbsp;  ○ decisionT.py\
