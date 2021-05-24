@@ -35,3 +35,18 @@ This project uses novel techniques of Machine learning and IR techniques to dete
 &nbsp;&nbsp;  ○ IR_final_ML_interaction_.ipynb\
 ● Keep all the files in the same folder as IR_final_ML_interaction_.ipynb and then run the lines in this jupyter file in a sequential manner.\
 ● If you want to run on the colab then upload the IR_final_ML_interaction_.ipynb and upload all the above files in the same runtime cycle.\
+
+
+#### RESULTS
+|  **Models**		                |	**Accuracy**	| 	
+| ------------- 	              | ------------- 	|    
+| Multi Layer Perceptron |              89.42 %| 
+| Decision Tree |                       72.62 %| 
+| Random Forest|                        89.97 %| 
+| Logistic Regression|                  89.88 %| 
+| K nearest Neighbour   |               89.97 %| 
+| Support Vector Machine |              87.99 %| 
+| Multinomial Naive Bayes|              81.30 %| 
+| Gradient Boosting Machine |           80.94 %| 
+| Extreme Gradient Boosting Machine |   78.83 %| 
+
