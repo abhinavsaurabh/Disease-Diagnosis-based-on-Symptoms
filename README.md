@@ -4,14 +4,14 @@ This project uses novel techniques of Machine learning and IR techniques to dete
 1. TF-IDF
 
 ● We have the following files for TF-idf interaction Application.\
-  ○ combination (3).csv\
-  ○ cosine_results.py\
-  ○ generatesymptoms.py\
-  ○ Interaction_TF_IDF_Cosine.ipynb\
-  ○ normal (3).csv\
-  ○ synonyms.py\
-  ○ tf_idf_result.py\
-  ○ tokenizer.py\
+&nbsp  ○ combination (3).csv\
+&nbsp  ○ cosine_results.py\
+&nbsp  ○ generatesymptoms.py\
+&nbsp  ○ Interaction_TF_IDF_Cosine.ipynb\
+&nbsp ○ normal (3).csv\
+&nbsp  ○ synonyms.py\
+&nbsp  ○ tf_idf_result.py\
+&nbsp  ○ tokenizer.py\
 ● Keep all the files in the same folder as Interaction_TF_IDF_Cosine.ipynb and then run the lines in this jupyter file in a sequential manner.\
 ● If you want to run on the colab then upload the Interaction_TF_IDF_Cosine.ipynb and upload all the above files in the same runtime cycle.\
 
